@@ -83,3 +83,10 @@ footer {
 footer > i {
   margin: 1rem;
 }
+
+
+
+img{
+  object-fit: contain;
+  width:300px;
+}
