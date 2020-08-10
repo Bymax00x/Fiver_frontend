@@ -82,8 +82,8 @@ main > div {
   font-size: 30px;
   font-weight: bold;
 }
-.details{
-  width: 70%;
+.detail{
+  text-align:justify;
 }
 .img{
   width:30%
